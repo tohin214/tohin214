@@ -1,6 +1,5 @@
 <h1 align="center">Assalamualaikum 👋, I'm Tohin</h1>
 <h3 align="center">I am a undergraduate student at Leading University.</h3>
-<a  href="#"><img  width="100%" height="auto" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS" height="175px"/></a>
 
 
 ## 🙋‍♂️ About Me
