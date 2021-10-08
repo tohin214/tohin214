@@ -2,7 +2,7 @@
 <h3 align="center">I am a undergraduate student at Leading University.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🌱 I’m currently learning Flutter.
 
